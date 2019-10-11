@@ -5,4 +5,8 @@ TreeBender basically bends tree.
 
 and the crowd goes WILD.
 
+<<<<<<< HEAD
 However, the farm nation still wanted to invade the tree nation.
+=======
+But the power of trusty spoon is not awaken. Oak has to collect five stones with elemental power.
+>>>>>>> 92bc49bc7ba34f77492452755e05c9a9f3edca2c
